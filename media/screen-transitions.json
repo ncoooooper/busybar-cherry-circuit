@@ -1,0 +1,41 @@
+{
+  "app": "busybar-cherry-circuit",
+  "sha256": "125f43b92b649ac0770eeab640f16dd3e40d62b5993d66f5ee0b8bfa314445ea",
+  "firmware": "1.3.1",
+  "cell": 16,
+  "lit": 14,
+  "front": [
+    72,
+    16
+  ],
+  "rear": [
+    160,
+    80
+  ],
+  "captures": [
+    {
+      "mode": "extended",
+      "guides": [
+        "use-1",
+        "use-2"
+      ],
+      "tour": "screen-transitions",
+      "input": [
+        [
+          "ok"
+        ],
+        [
+          "start"
+        ]
+      ],
+      "distinct_frames": [
+        13,
+        10,
+        22
+      ],
+      "rear_frames": 11,
+      "rear_tour": "screen-transitions-rear",
+      "exit": "finished"
+    }
+  ]
+}
