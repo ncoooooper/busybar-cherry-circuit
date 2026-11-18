@@ -1,0 +1,19 @@
+{
+  "app": "cherry-circuit",
+  "frames": [
+    12,
+    11
+  ],
+  "firmware": "1.3.1",
+  "inputs": [
+    [
+      "ok"
+    ],
+    [
+      "start"
+    ]
+  ],
+  "source": "Device controls",
+  "exit": "finished",
+  "sha256": "20dd1c611572405d26068d203a56612c1695de7745c5d0a804dfb637bb852a85"
+}
