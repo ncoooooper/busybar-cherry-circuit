@@ -2,5 +2,5 @@
   "category": "games",
   "short_description": "Spin three pixel reels and collect pairs and triples in a free-play slot game.",
   "description": "Spin three pixel reels and collect pairs and triples in a free-play slot game.",
-  "changelog": "New screen transitions and high-contrast LED previews."
+  "changelog": "Separate reel-stop animations for a miss, a pair and a triple."
 }

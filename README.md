@@ -32,6 +32,14 @@ Press Start after the previous spin finishes. A matching pair or triple marks th
 
 ![Start spins a fresh set of reels.](media/guide/use-2.gif)
 
+## Read the payline
+
+A pair draws a green line under the two matching reels. A triple draws three gold lines and sends a glint along their upper edges. On a miss, three short amber marks fade as the reels settle. You can start the next spin as soon as the last reel stops.
+
+![Two green lines under a pair, three gold lines under a triple, then three fading amber marks on a miss](media/guide/paylines.gif)
+
+The example uses a fixed symbol sequence to show all three outcomes. The installed game draws each reel independently.
+
 ## Run in the emulator
 
 Install BUSY Bar Emulator and open it. From this repository run the following command, then press **Back** when you finish.

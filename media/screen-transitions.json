@@ -1,6 +1,17 @@
 {
   "app": "busybar-cherry-circuit",
-  "sha256": "125f43b92b649ac0770eeab640f16dd3e40d62b5993d66f5ee0b8bfa314445ea",
+  "sha256": "031ce8fab737c600853b9f2862a4508236e88a6282f0d29abcdc2c666db0122e",
+  "rapid_input_test": {
+    "app": "io.ncoooooper.cherrycircuit",
+    "sha256": "031ce8fab737c600853b9f2862a4508236e88a6282f0d29abcdc2c666db0122e",
+    "firmware": {
+      "name": "1.3.1",
+      "commit": "8edd2da4"
+    },
+    "heap_peak_kib": 99.8,
+    "budget_kib": 128.0,
+    "exit": "finished"
+  },
   "firmware": "1.3.1",
   "cell": 16,
   "lit": 14,
@@ -26,16 +37,28 @@
         ],
         [
           "start"
+        ],
+        [
+          "ok"
         ]
       ],
       "distinct_frames": [
-        13,
-        10,
-        22
+        21,
+        22,
+        62
       ],
-      "rear_frames": 11,
+      "rear_frames": 50,
       "rear_tour": "screen-transitions-rear",
       "exit": "finished"
     }
-  ]
+  ],
+  "outcomes": {
+    "clip": "media/guide/paylines.gif",
+    "order": [
+      "Pair!",
+      "Triple!",
+      "Miss"
+    ],
+    "input": "Fixed reel draws in the emulator capture project"
+  }
 }
